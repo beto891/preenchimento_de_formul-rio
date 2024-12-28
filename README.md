@@ -1,2 +1,2 @@
-# preenchimento_de_formul-rio
+# preenchimento_de_formulários
 automação com PyAutoGui
